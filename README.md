@@ -1,6 +1,6 @@
 # STM32 PlatformIO 项目创建向导
 
-<script src="https://asciinema.org/a/RbwxP2R09OGZvWgoNzNGQ5pc2.js" id="asciicast-RbwxP2R09OGZvWgoNzNGQ5pc2" async="true"></script>
+[![asciicast](https://asciinema.org/a/RbwxP2R09OGZvWgoNzNGQ5pc2.svg)](https://asciinema.org/a/RbwxP2R09OGZvWgoNzNGQ5pc2)
 
 一个用于快速创建基于 STM32 标准库的 PlatformIO 项目的脚本工具。
 
